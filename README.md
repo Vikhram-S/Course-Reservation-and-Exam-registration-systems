@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:212222060295
+# Reg No: 212222060295
 # Name: Vikhram S
-# Date:30/09/2025
+# Date: 30/09/2025
 
 
 # AIM:
